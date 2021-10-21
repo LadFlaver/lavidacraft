@@ -1,0 +1,75 @@
+LavidaCraft Official 1.4.1.2
+
+Changed ReadMe.txt
+Added changed railfix that looks more natural. (Java)
+Added less intense enchant glint. (Java)
+Fixed opacity issue with rail corners. (Java/Bedrock)
+
+LavidaCraft Official 1.4.1.1 (hotfix)
+
+Fixed glowstones missing color. (Java/Bedrock)
+
+LavidaCraft Official 1.4.1
+
+Updated iron and gold nuggets. (Java/Bedrock)
+Updated sugar. (Java/Bedrock)
+Updated honey bottle. (Java)
+Updated potions and bottles. (Java)
+Updated glowstone. (Java/Bedrock)
+Updated writable book. (Java/Bedrock)
+Fixed manifest.json. (Bedrock)
+Including ChangeLog.txt (Bedrock)
+
+LavidaCraft Official 1.4
+
+Added missing frozen hearts in icons.png. (Java/Bedrock)
+Added custom loading screen with OptiFine. (Java)
+Added the rail_fix pack. (Java)
+Darkened chicken and feather texture. (Java/Bedrock)
+Improved the tall seagrass texture. (Java/Bedrock)
+Added emissive textures for emerald, redstone, lapis, and diamond using OptiFine. (Java)
+Added emissive textures for netherite gear. (Java)
+Updated ReadMe.txt with instructions to disable OptiFine features.
+Added a background behind the player in the inventory. (Java)
+ChangeLog.txt now specifies Bedrock and Java features.
+
+LavidaCraft Official 1.3.3
+
+Darkened bowstring.
+Made glowstone and glowstone dust textures closer to the vanilla textures.
+Made an original texture for bedrock.
+Updated ReadMe.txt.
+Updated end crystal texture to match the bedrock texture.
+Updated chickens. (lighter in color and matches the updated texture)
+
+LavidaCraft Official 1.3.2 (armor fix update)
+
+Fixed missing pixels on the diamond armor texture.
+Updated the mcmeta file to match Laviday's username change to Lad_Flaver.
+Updated netherite armor to be more simplistic and good looking.
+Removed pack-legacy.png.
+Removed unnecessary piglin leather armor textures. 
+
+LavidaCraft Official 1.3.1
+
+Updated pack to 1.17.
+Fixed redstone ore and deepslate ore lighting to be more simplistic.
+Changed kelp block textures to be more natural looking.
+Removed unecessary stray texture.
+
+LavidaCraft Official 1.3
+
+Changed icon to an original image instead of just the moon texture.
+Added edited versions of the new ore textures coming in 1.17. (Edited to make the shading less intense)
+Changed glowstone texture from low quality texture to a recolored version of the in-game texture.
+Changed magma texture to more accurately reflect the color of lava rock in real life.
+Changed the timing of the redstone ore animation.
+
+LavidaCraft Official 1.2
+
+Changes to water and honey bottles to make them more transparent.
+Changes made to animated redstone textures to make them run smoothly.
+Bloom effect around the moon has been changed to more accurately portray bloom as seen in real life.
+Iron and gold nugget textures changed to match the colors in Minecraft's updated textures.
+Books color has been changed to remain more consistant and realistic.
+Offhand icon has been changed to more accurately portray a shield.
