@@ -1,3 +1,12 @@
+LavidaCraft Official 1.4.2
+
+Added lily pad texture that is lighter and more circular. (Java/Bedrock)
+Added less noisy recipe book texture. (Java)
+Improved Torch and Soul Torch animations. (Java/Bedrock)
+Made pumpkin blur square and slightly less intense. (Java/Bedrock)
+Restricted the color pallette of the moon to make it look better. (Java/Bedrock)
+Updated to 1.18. (Java/Bedrock)
+
 LavidaCraft Official 1.4.1.2
 
 Changed ReadMe.txt
