@@ -35,6 +35,9 @@ img {
 	padding:5px;
 	border-radius:15px;
 }
+.darkNull {
+	padding:5px;
+}
 .downButton {
 	transition-duration:0.5s;
 	cursor:pointer;
