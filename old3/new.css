@@ -1,0 +1,152 @@
+/*colors used:3381f5, e6f0ff, e9ecf2, 7faff5, dee9fa, e0ecfe, d3dff2, cce0fd*/
+html {
+  font-family:verdana;
+  background-color:#000000
+}
+.headerButton {
+  background-color:#3381f5;
+  border:3px;
+  border-style:solid;
+  border-color:#3381f5;
+  font-size:20px;
+  color:#ffffff;
+  transition-duration: 0.3s;
+  cursor:pointer;
+  font-weight: bold
+}
+.headerButton:hover {
+  background-color:#7faff5;
+  border-color:#7faff5
+  
+}
+.title {
+  font-size:75px;
+  color:#ffffff;
+  position:absolute;
+  top:20px
+}
+.blueBorder {
+  border:6px; 
+  border-style:solid; 
+  border-color:#3381f5;
+  background-color:#3381f5;
+  margin: auto;
+}
+.pageDiv {
+  margin: auto;
+  border-style:none;
+  box-shadow: 0 0 3px 2px grey;
+  background-color:#e0ecfe;
+  margin-bottom: 25px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align: center;
+  color:#3381f5;
+}
+.whiteLink {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+}
+.downloadButton {
+  background-color:#3381f5;
+  border:3px;
+  border-style:solid;
+  border-color:#3381f5;
+  font-size:20px;
+  color:#ffffff;
+  transition-duration: 0.3s;
+  cursor:pointer;
+}
+.downloadButton:hover {
+  background-color:#c9daf2;
+  border-color:#3381f5;
+  color: #3381f5;
+}
+.downLink {
+  color: #ffffff;
+  text-decoration: none;
+  transition-duration: 0.3s
+}
+.downLink:hover {
+  color: #3381f5;
+}
+/*.sideText {
+  color:#3381f5;
+  text-decoration: none;
+}*/
+.sideLink {
+  color:#3381f5;
+  text-decoration: underline;
+}
+.blueText {
+  color: #3381f5;
+}
+.indent {
+  margin-left:25px;
+  margin-right:25px
+}
+.blank {
+  color: #d3dff2;
+}
+.sideLink2 {
+  color:#3381f5;
+  text-decoration: underline;
+  margin-left:10px
+}
+.light {
+  background-color:#cce0fd;
+  color:#3381f5;
+}
+.lightCenter {
+  background-color:#cce0fd;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align: center;
+}
+.pageDark {
+  margin: auto;
+  border-style:none;
+  box-shadow: 0 0 3px 2px grey;
+  background-color:#393b40;
+  margin-bottom: 25px;
+}
+.dropButton {
+  background-color:#3381f5;
+  border:3px;
+  border-style:solid;
+  border-color:#3381f5;
+  font-size:20px;
+  color:#ffffff;
+  font-weight: bold;
+}
+.dropButton:hover {
+  background-color:#7faff5;
+  border-color:#7faff5
+  
+}
+.dropContent {
+  display: none;
+  position: absolute;
+  z-index: 1;
+  background-color:#3381f5;
+  border:2px;
+  border-style:solid;
+  border-color:#7faff5;
+  min-width:215px;
+  text-align: left;
+}
+.drop {
+  position: relative;
+  display: inline-block;
+  border-color:#7faff5;
+}
+.drop:hover .dropContent {
+  display: block;
+}
