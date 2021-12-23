@@ -74,6 +74,24 @@ img {
 .navButton:hover {
 	background-color:#7faff5;
 }
+.navButton2 {
+	transition-duration:0.5s;
+	cursor:pointer;
+	border:3px;
+	border-style:solid;
+	border-radius:15px;
+	border-color:#3381f5;
+	color:#f1f1f1;
+	background-color:#3381f5;
+	font-weight:bold;
+	font-size:20px;
+	padding-left:15px;
+	padding-right:15px;
+	min-width:500px;
+}
+.navButton2:hover {
+	background-color:#7faff5;
+}
 .navLink {
 	text-decoration:none;
 	width:100%;
