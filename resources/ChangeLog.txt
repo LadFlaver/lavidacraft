@@ -1,3 +1,9 @@
+LavidaCraft Official 1.4.3
+
+Improved potted cactus model and texture. (Java)
+Made the Experience bar smoother. (Java)
+Added new enchant glint. (Java) Enable old version by renaming enchanted_item_glint0.png to enchanted_item_glint.png.
+
 LavidaCraft Official 1.4.2
 
 Added lily pad texture that is lighter and more circular. (Java/Bedrock)
