@@ -137,6 +137,15 @@ img {
     overflow: hidden;
     transition: max-height 0.2s ease-out;
 }
+.discordButton {
+    background-color: #5764F1;
+    border-radius: 20px;
+    padding:25px;
+    transition-duration: 0.2s;
+}
+.discordButton:hover {
+    background-color: #5159bb;
+}
 .downloadContainer {
     background-color: #3381F5;
     border-color: #3381F5;
@@ -191,7 +200,8 @@ img {
     text-decoration: none;
     transition-duration:0.2s;
     white-space: nowrap;
-}.greenButtonDisabled:hover {
+}
+.greenButtonDisabled:hover {
     color: #F5F5F5;
 }
 .hashContent {
@@ -259,6 +269,7 @@ img {
 }
 .navigationA:hover {
     background-color: #366ec2;
+    color:#F5F5F5;
 }
 .navigationA:visited {
     color: #F5F5F5;
