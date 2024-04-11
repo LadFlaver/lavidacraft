@@ -1,0 +1,313 @@
+a {
+    color:#3381F5;
+    transition-duration: 0.2s;
+}
+a:hover {
+    color: #6357be;
+}
+a:visited {
+    color: #6357be;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+html {
+    background-color: #020202;
+    background: url("/lavidacraft/resources/images/deepslate_brick.png") repeat fixed center;
+    background-size: 64px;
+    color: #F5F5F5;
+    font-family:Tahoma;
+    font-size: 20px;
+    image-rendering: pixelated;
+}
+img {
+    border-radius: 13px;
+    margin: 0px;
+    image-rendering: pixelated;
+}
+.bigButton {
+    background-color: #3381F5;
+    border-radius: 7px;
+    color: #F5F5F5;
+    font-family: Arial;
+    font-size: 40px;
+    font-weight: bold;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    margin: 10px;
+    text-align: center;
+    text-decoration: none;
+    transition-duration:0.2s;
+    white-space: nowrap;
+    width: 400px;
+}
+.bigButton:hover {
+    background-color: #144080;
+    color: #F5F5F5;
+}
+.bigButton:visited {
+    color: #F5F5F5;
+}
+.bigOrange {
+    background-color: #f16436;
+    border-radius: 7px;
+    color: #F5F5F5;
+    font-family: Arial;
+    font-size: 40px;
+    font-weight: bold;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    margin: 10px;
+    text-align: center;
+    text-decoration: none;
+    transition-duration:0.2s;
+    white-space: nowrap;
+    width: 400px;
+}
+.bigOrange:hover {
+    background-color: #7d3016;
+    color: #F5F5F5;
+}
+.bigOrange:visited {
+    color: #F5F5F5;
+}
+.blueButton {
+    background-color: #3381F5;
+    border-radius: 7px;
+    color: #F5F5F5;
+    font-family: Arial;
+    font-weight: bold;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    text-decoration: none;
+    transition-duration: 0.2s;
+    white-space: nowrap;
+}
+.blueButton:hover {
+    background-color: #144080;
+    color: #F5F5F5;
+}
+.blueButton:visited {
+    color: #F5F5F5;
+}
+.blueButtonDisabled {
+    background-color: #144080;
+    border-radius: 7px;
+    color: #F5F5F5;
+    font-family: Arial;
+    font-weight: bold;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    text-decoration: none;
+    transition-duration: 0.2s;
+    white-space: nowrap;
+}
+.blueButtonDisabled:hover {
+    color: #F5F5F5;
+}
+.collapseA {
+    background: none;
+    border-style: none;
+    color: #3381F5;
+    cursor: pointer;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-decoration: underline;
+    transition-duration: 0.2s;
+    width: 100%;
+}
+.collapseA:hover {
+    color: #6357be;
+}
+.collapseContent {
+    border-radius: 15px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+.downloadContainer {
+    background-color: #3381F5;
+    border-color: #3381F5;
+    border-style: solid;
+    border-radius: 15px;
+}
+.downloadContents {
+    background-color: #101010;
+    border-radius: 13px;
+    padding: 15px;
+    padding-top: 25px;
+}
+.downloadTitle {
+    color: #050505;
+    font-weight: bold;
+    padding: 2px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-decoration: none;
+}
+.greenButton {
+    background-color: #1e9114;
+    border-radius: 7px;
+    color: #F5F5F5;
+    font-family: Arial;
+    font-weight: bold;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    text-decoration: none;
+    transition-duration:0.2s;
+    white-space: nowrap;
+}
+.greenButton:hover {
+    background-color: #144210;
+    color: #F5F5F5;
+}
+.greenButton:visited {
+    color: #F5F5F5;
+}
+.greenButtonDisabled {
+    background-color: #144210;
+    border-radius: 7px;
+    color: #F5F5F5;
+    font-family: Arial;
+    font-weight: bold;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    text-decoration: none;
+    transition-duration:0.2s;
+    white-space: nowrap;
+}.greenButtonDisabled:hover {
+    color: #F5F5F5;
+}
+.hashContent {
+    background-color: #1a1a1a;
+    border-radius: 13px;
+    padding: 15px;
+    margin-top: 5px;
+    word-wrap: break-word;
+}
+.imageContainer {
+    background-color: #3381F5;
+    border-color: #3381F5;
+    border-style: solid;
+    border-radius: 15px;
+    line-height: 0px;
+    margin-bottom: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.imageTitle {
+    color: #F5F5F5;
+    font-weight: bold;
+    line-height: 25px;
+    padding: 2px;
+    text-align: center;
+    text-decoration: none;
+
+}
+.flexContainer {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    flex-flow: row wrap;
+    justify-content:space-evenly;
+}
+.mainContainer {
+    background-color: #3381F5;
+    border-color: #3381F5;
+    border-radius: 30px;
+    border-style: solid;
+    border-width: 3px;
+    box-shadow: 0px 0px 30px 5px black;
+    margin: auto;
+    max-width: 1050px;
+}
+.mainMargin {
+    background-color: #0A0A0A;
+    border-radius: 15px 15px 27px 27px;
+    min-height: 500px;
+    padding: 30px;
+}
+.navigationA {
+    background-color: #3381F5;
+    border-radius: 7px;
+    color:#F5F5F5;
+    font-family: Arial;
+    font-weight: bold;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    transition-duration: 0.2s;
+    width: 100%;
+}
+.navigationA:hover {
+    background-color: #366ec2;
+}
+.navigationA:visited {
+    color: #F5F5F5;
+}
+.navigationContainer {
+    background-color: #3381F5;
+    border-radius: 40px 40px 0px 0px;
+    padding-top: 20px;
+}
+.navigationBar {
+    display: flex;
+    justify-content:space-evenly;
+    padding: 5px;
+}
+.pageHeader {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+}
+.whiteA {
+    color:#F5F5F5;
+    font-weight: bold;
+    text-decoration: none;
+}
+.whiteA:visited {
+    color: #F5F5F5;
+}
+.yellowButton {
+    background-color: #9b980e;
+    border-radius: 7px;
+    border-style: none;
+    color: #F5F5F5;
+    cursor: pointer;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    text-decoration: none;
+    transition-duration:0.2s;
+    white-space: nowrap;
+}
+.yellowButton:hover {
+    background-color: #46450e;
+    color: #F5F5F5;
+}
+.yellowButton:visited {
+    color: #F5F5F5;
+}

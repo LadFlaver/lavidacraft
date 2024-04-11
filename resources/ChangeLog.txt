@@ -1,3 +1,44 @@
+LavidaCraft 1.5
+
+All changes are included in both Java and Bedrock unless otherwise specified.
+Added:
+ - Diamond Ore texture.
+ - Dragon Breath texture.
+ - Experience Bottle texture.
+ - Custom Chorus Flower model that looks more like a flower. (Java)
+ - Potion textures to match the Java version of LavidaCraft. (Bedrock)
+Updated:
+ - Resource Pack icon.
+ - Potion and Honey Bottle textures for higher quality.
+ - Brewing Stand UI to match the changes made to bottles.
+ - Glowstone and Glowstone Dust textures to be closer to Vanilla.
+ - Enderman texture to reduce contrast of it's teeth.
+ - Chicken, feather, and writable book to match Vanilla colors.
+ - Torch and Soul Torch textures to improve animation quality.
+ - Redstone Torch to match the color of other torches.
+ - Ore textures for higher quality.
+ - Sugar texture.
+ - Rail Corner texture.
+ - Zombie texture for consistency and higher quality.
+ - XP and related bars.
+ - Tall Seagrass textures to improve quality.
+ - Diamond Armor texture.
+ - Netherite Tools and Armor.
+ - Potted Cactus model and texture. This will not cause a visual difference. (Java)
+ - GUI to meet Minecraft's internal changes to how they work. (Java)
+ - Rail Fix textures to connect better with normal rails. (Java)
+ - Enchantment Glint to match Minecraft's internal changes. (Java)
+Removed:
+ - Netherite Armor Diamond Trim due to armor trims being added to Minecraft.
+ - Skeleton, Stray, and Wither Skeleton textures.
+ - Deepslate Ore textures excluding Redstone.
+ - Emerald Ore texture.
+ - Unecessary UI textures.
+ - Triangular Crosshair.
+ - Custom Inventory texture. (Java)
+ - Old Enchant Glint. (Java)
+ - Emissive Optifine Ore textures to balance the game. (Java)
+
 LavidaCraft Official 1.4.3
 
 Improved potted cactus model and texture. (Java)
