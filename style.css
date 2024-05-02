@@ -28,6 +28,14 @@ img {
     margin: 0px;
     image-rendering: pixelated;
 }
+li {
+    padding-bottom: 2.5px;
+    padding-top: 2.5px;
+}
+ul {
+    column-count:2;
+    list-style-type: circle;
+}
 .bigButton {
     background-color: #3381F5;
     border-radius: 7px;
@@ -137,6 +145,10 @@ img {
     overflow: hidden;
     transition: max-height 0.2s ease-out;
 }
+.disclaimer {
+    color: #909090;
+    text-align: center;
+}
 .discordButton {
     background-color: #5764F1;
     border-radius: 20px;
@@ -165,6 +177,14 @@ img {
     padding-left: 30px;
     padding-right: 30px;
     text-decoration: none;
+}
+.paragraphSection {
+    background-color: #101010;
+    border-color: #3381F5;
+    border-radius: 15px;
+    border-style: solid;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 .greenButton {
     background-color: #1e9114;
