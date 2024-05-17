@@ -6,17 +6,18 @@ Added:
  - Dragon Breath texture.
  - Experience Bottle texture.
  - Centered Chiseled Stone Bricks texture.
+ - Enchanted Book texture.
  - Custom Chorus Flower model. (Java)
  - Potion textures to match the Java version of LavidaCraft. (Bedrock)
  - Java style Explosion. (Bedrock)
 Updated:
+ - Updated to Minecraft 1.20.6.
  - Resource Pack icon.
  - Potion and Honey Bottle textures for higher quality.
  - Brewing Stand UI to match the changes made to bottles.
  - Glowstone and Glowstone Dust textures to be closer to Vanilla.
  - Enderman texture to reduce contrast of it's teeth.
  - Chicken, Feather, and Writable Book to match Vanilla colors.
- - Torch and Soul Torch textures to improve animation quality.
  - Redstone Torch to match the color of other torches.
  - Ore textures for higher quality.
  - Sugar texture.
@@ -28,23 +29,25 @@ Updated:
  - Netherite Tools and Armor.
  - Destroy Animation to 32*32 instead of 64*64 and to improve quality.
  - Bedrock texture.
- - Book, Writable, and Written Book textures for consistency.
+ - Book, Writable, and Written Book textures for consistency and quality.
  - End Crystal to match Bedrock.
- - Potted Cactus model and texture. This will not cause a visual difference. (Java)
  - GUI to meet Minecraft's internal changes to how they work. (Java)
  - Rail Fix textures to connect better with normal rails. (Java)
  - Enchantment Glint to match Minecraft's internal changes. (Java)
  - Recipe Book texture to match books. (Java)
+ - Torch and Soul Torch textures to improve animation quality. (Java)
+Fixed:
+ - Custom block model and textures for Potted Cacti. This will not cause a visual difference. (Java)
 Removed:
  - Netherite Armor Diamond Trim due to armor trims being added to Minecraft.
  - Skeleton, Stray, and Wither Skeleton textures.
  - Deepslate Ore textures excluding Redstone.
  - Emerald Ore texture.
- - Unnecessary UI textures.
  - Triangular Crosshair.
  - Custom Inventory texture. (Java)
  - Old Enchant Glint. (Java)
  - Emissive Optifine Ore textures to balance the game. (Java)
+ - Torch and Soul Torch textures due to block model incompatibility. (Bedrock)
 
 LavidaCraft Official 1.4.3
 
