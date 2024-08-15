@@ -16,7 +16,7 @@ h3 {
 }
 html {
     background-color: #020202;
-    background: url("/lavidacraft/resources/images/deepslate_brick.png") repeat fixed center;
+    background: url("/lavidacraft/resources/images/brick_background.png") repeat fixed center;
     background-size: 64px;
     color: #F5F5F5;
     font-family:Tahoma;
@@ -24,7 +24,10 @@ html {
     image-rendering: pixelated;
 }
 img {
+    border-color: #144080;
     border-radius: 13px;
+    border-style: solid;
+    border-width: 4px;
     margin: 0px;
     image-rendering: pixelated;
 }
@@ -36,6 +39,9 @@ ul {
     column-count:2;
     list-style-type: circle;
 }
+p {
+    line-height: 30px;
+}
 .bigButton {
     background-color: #3381F5;
     border-radius: 7px;
@@ -43,10 +49,10 @@ ul {
     font-family: Arial;
     font-size: 40px;
     font-weight: bold;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
     padding-left: 15px;
     padding-right: 15px;
-    padding-top: 5px;
+    padding-top: 10px;
     margin: 10px;
     text-align: center;
     text-decoration: none;
@@ -68,10 +74,10 @@ ul {
     font-family: Arial;
     font-size: 40px;
     font-weight: bold;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
     padding-left: 15px;
     padding-right: 15px;
-    padding-top: 5px;
+    padding-top: 10px;
     margin: 10px;
     text-align: center;
     text-decoration: none;
@@ -93,10 +99,10 @@ ul {
     font-family: Arial;
     font-size: 40px;
     font-weight: bold;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
     padding-left: 15px;
     padding-right: 15px;
-    padding-top: 5px;
+    padding-top: 10px;
     margin: 10px;
     text-align: center;
     text-decoration: none;
@@ -118,10 +124,10 @@ ul {
     font-family: Arial;
     font-size: 40px;
     font-weight: bold;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
     padding-left: 15px;
     padding-right: 15px;
-    padding-top: 5px;
+    padding-top: 10px;
     margin: 10px;
     text-align: center;
     text-decoration: none;
@@ -223,7 +229,7 @@ ul {
 .downloadTitle {
     color: #050505;
     font-weight: bold;
-    padding: 2px;
+    padding: 5px;
     padding-left: 30px;
     padding-right: 30px;
     text-decoration: none;
@@ -286,6 +292,7 @@ ul {
     border-color: #3381F5;
     border-style: solid;
     border-radius: 15px;
+    border-width: 4px;
     line-height: 0px;
     margin-bottom: 25px;
     margin-left: 10px;
@@ -295,7 +302,7 @@ ul {
     color: #F5F5F5;
     font-weight: bold;
     line-height: 25px;
-    padding: 2px;
+    padding: 5px;
     text-align: center;
     text-decoration: none;
 
@@ -364,6 +371,9 @@ ul {
     color:#F5F5F5;
     font-weight: bold;
     text-decoration: none;
+}
+.whiteA:hover {
+    color: #F5F5F5;
 }
 .whiteA:visited {
     color: #F5F5F5;
