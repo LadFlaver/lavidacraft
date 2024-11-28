@@ -1,3 +1,18 @@
+LavidaCraft 1.7
+
+Added:
+ - All Map item textures.
+ - Ominous Bottle texture. 
+ - New name for Ominous Bottle (Ominous Totem). (Java)
+Updated:
+ - Hotbar texture.
+ - Recipe Book icon. (Java)
+ - Book, Enchanted Book, Writable Book, and Written Book textures.
+ - Redstone Torch texture.
+Fixed:
+ - Missing particle textures in torch models. (Java)
+ - Empty Helmet Slot texture.
+
 LavidaCraft 1.6
 
 Added:
