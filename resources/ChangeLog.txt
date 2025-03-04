@@ -1,3 +1,13 @@
+LavidaCraft 1.9
+Updated:
+ - Bow texture. Improved quality for the arrow.
+ - Torch and Soul Torch textures and models. (Java only)
+ - Zombie texture. Extremely small changes.
+ - Enderman texture. Slight changes.
+
+Fixed:
+ - End Crystal texture. Now it matches the updated bedrock texture from 1.8.
+
 LavidaCraft 1.8
 
 Added:
