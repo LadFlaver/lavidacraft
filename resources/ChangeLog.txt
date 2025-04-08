@@ -1,10 +1,29 @@
+LavidaCraft 1.10
+Added:
+ - Brewing Fuel and Potion slot textures for Brewing Stand UI. (Java)
+Updated:
+ - Sugar texture. Smaller and matches Minecraft's style better.
+ - Kelp Block texture.
+ - Lily Pad texture.
+ - Pack format to 1.21.5.
+ - Glowstone.
+ - Glowstone Dust.
+ - Redstone Ore, Deepslate Redstone Ore, and Redstone Torch textures.
+Removed:
+ - Brewing Stand UI texture as it was longer necessary. This will break some backwards compatibility. (Java)
+ - Terrain_texture.json since it was unused. (Bedrock)
+Fixed:
+ - Chorus Flower and Dead Chorus Flower block models. Scaling issues. (Java)
+Technical:
+ - Gave Rail Fix textures their own namespace. (Java)
+ - Gave LavidaCraft specific textures their own namespace. (Java)
+
 LavidaCraft 1.9
 Updated:
  - Bow texture. Improved quality for the arrow.
  - Torch and Soul Torch textures and models. (Java only)
  - Zombie texture. Extremely small changes.
  - Enderman texture. Slight changes.
-
 Fixed:
  - End Crystal texture. Now it matches the updated bedrock texture from 1.8.
 
