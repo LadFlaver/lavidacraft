@@ -1,0 +1,23 @@
+img {
+    border-color: var(--contentBo);
+    border-radius: 13px;
+    border-style: solid;
+    border-width: 2px;
+    image-rendering: pixelated;
+    margin: 0;
+}
+.imgContainer {
+    background-color: var(--imgBa);
+    border-color: var(--imgBo);
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 2px;
+    margin: 10px;
+    padding: 10px;
+    padding-top: 0;
+}
+.imgTitle {
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+}

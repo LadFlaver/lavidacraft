@@ -1,0 +1,8 @@
+li {
+    padding-bottom: 2.5px;
+    padding-top: 2.5px;
+}
+ul {
+    column-count:2;
+    list-style-type: circle;
+}

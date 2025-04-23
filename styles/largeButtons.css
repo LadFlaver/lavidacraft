@@ -1,0 +1,121 @@
+.blueButtonLarge {
+    background-color: var(--bBlueBa);
+    border-color: var(--lBlue2);
+    border-radius: 7px;
+    border-style: solid;
+    border-width: 2px;
+    color: var(--lBlue);
+    font-size: 40px;
+    font-weight: bold;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    transition-duration: 0.2s;
+    white-space: nowrap;
+    width: 400px;
+}
+.blueButtonLarge:hover {
+    background-color: var(--bBlueBaH);
+    color: var(--lBlue);
+}
+.blueButtonLarge:visited {
+    color: var(--lBlue);
+}
+.blurpleButtonLarge {
+    background-color: var(--bBlurpleBa);
+    border-color: var(--bBlurpleBo);
+    border-radius: 7px;
+    border-style: solid;
+    border-width: 2px;
+    color: var(--bBlurple);
+    font-size: 40px;
+    font-weight: bold;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    transition-duration: 0.2s;
+    white-space: nowrap;
+    width: 400px;
+}
+.blurpleButtonLarge:hover {
+    background-color: var(--bBlurpleBaH);
+    color: var(--bBlurple);
+}
+.blurpleButtonLarge:visited {
+    color: var(--bBlurple);
+}
+.mintButtonLarge {
+    background-color: var(--bMintBa);
+    border-color: var(--bMintBo);
+    border-radius: 7px;
+    border-style: solid;
+    border-width: 2px;
+    color: var(--bMint);
+    font-size: 40px;
+    font-weight: bold;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    transition-duration: 0.2s;
+    white-space: nowrap;
+    width: 400px;
+}
+.mintButtonLarge:hover {
+    background-color: var(--bMintBaH);
+    color: var(--bMint);
+}
+.mintButtonLarge:visited {
+    color: var(--bMint);
+}
+.orangeButtonLarge {
+    background-color: var(--bOrangeBa);
+    border-color: var(--bOrangeBo);
+    border-radius: 7px;
+    border-style: solid;
+    border-width: 2px;
+    color: var(--bOrange);
+    font-size: 40px;
+    font-weight: bold;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    transition-duration: 0.2s;
+    white-space: nowrap;
+    width: 400px;
+}
+.orangeButtonLarge:hover {
+    background-color: var(--bOrangeBaH);
+    color: var(--bOrange);
+}
+.orangeButtonLarge:visited {
+    background-color: var(--bOrangeBaH);
+    color: var(--bOrange);
+}
+.redButtonLarge {
+    background-color: var(--bRedBa);
+    border-color: var(--bRedBo);
+    border-radius: 7px;
+    border-style: solid;
+    border-width: 2px;
+    color: var(--bRed);
+    font-size: 40px;
+    font-weight: bold;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    transition-duration: 0.2s;
+    white-space: nowrap;
+    width: 400px;
+}
+.redButtonLarge:hover {
+    background-color: var(--bRedBaH);
+    color: var(--bRed);
+}
+.redButtonLarge:visited {
+    color: var(--bRed);
+}

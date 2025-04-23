@@ -1,0 +1,86 @@
+.blueButton {
+    background-color: var(--bBlueBa);
+    border-color: var(--lBlue2);
+    border-radius: 7px;
+    border-style: solid;
+    border-width: 2px;
+    color: var(--lBlue);
+    font-weight: bold;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    text-decoration: none;
+    transition-duration: 0.2s;
+    white-space: nowrap;
+}
+.blueButton:hover {
+    background-color: var(--bBlueBaH);
+    color: var(--lBlue);
+}
+.blueButton:visited {
+    color: var(--lBlue);
+}
+.greenButton {
+    background-color: var(--bGreenBa);
+    border-color: var(--bGreenBo);
+    border-radius: 7px;
+    border-style: solid;
+    border-width: 2px;
+    color: var(--bGreen);
+    font-weight: bold;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    text-decoration: none;
+    transition-duration: 0.2s;
+    white-space: nowrap;
+}
+.greenButton:hover {
+    background-color: var(--bGreenBaH);
+    color: var(--bGreen);
+}
+.greenButton:visited {
+    color: var(--bGreen);
+}
+.greenButtonDisabled {
+    background-color: var(--bGreenBaD);
+    border-color: var(--bGreenBaD);
+    border-radius: 7px;
+    border-style: solid;
+    border-width: 2px;
+    color: var(--bGreen);
+    font-weight: bold;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    text-decoration: none;
+    transition-duration: 0.2s;
+    white-space: nowrap;
+}
+.yellowButton {
+    background-color: var(--bYellowBa);
+    border-color: var(--bYellowBo);
+    border-radius: 7px;
+    border-style: solid;
+    border-width: 2px;
+    color: var(--bYellow);
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    text-decoration: none;
+    transition-duration: 0.2s;
+    white-space: nowrap;
+}
+.yellowButton:hover {
+    background-color: var(--bYellowBaH);
+}
+.yellowButton:visited {
+    color: var(--bYellow);
+}

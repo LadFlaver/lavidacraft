@@ -1,0 +1,41 @@
+:root {
+    /*Colors for buttons*/
+    --bBlueBa: #0c1e3a;
+    --bBlueBaH: #122c55;
+    --bBlurple: #5764F1;
+    --bBlurpleBa: #0c0e22;
+    --bBlurpleBaH: #131635;
+    --bBlurpleBo: #4e59d6;
+    --bGreen: #27bb1a;
+    --bGreenBa: #0a2906;
+    --bGreenBaD: #144210;
+    --bGreenBaH: #0e3d0a;
+    --bGreenBo: #2e9525;
+    --bMint: #1bd968;
+    --bMintBa: #041d0d;
+    --bMintBaH: #083318;
+    --bMintBo: #17ac52;
+    --bOrange: #f16436;
+    --bOrangeBa: #1f0d07;
+    --bOrangeBaH: #36160c;
+    --bOrangeBo: #d1572e;
+    --bRed: #b51f1f;
+    --bRedBa: #290707;
+    --bRedBaH: #3f0c0c;
+    --bRedBo: #911919;
+    --bYellow: #cfcc14;
+    --bYellowBa: #34330a;
+    --bYellowBaH: #4d4b0e;
+    --bYellowBo: #9b980e;
+    /*Generic colors*/
+    --contentBa: #12121a;
+    --contentBo: #272931;
+    --imgBa: #181828;
+    --imgBo: #122c55;
+    --lBlue: #3381F5;
+    --lBlue2: #366ec2;
+    --lPurple: #6357be;
+    --notice: #909090;
+    --offBlack: #050505;
+    --offWhite: #F5F5F5;
+}

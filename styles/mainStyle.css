@@ -1,0 +1,107 @@
+@import url("colors.css");
+a {
+    color: var(--lBlue);
+    transition-duration: 0.2s;
+}
+a:hover {
+    color: var(--lPurple);
+}
+a:visited {
+    color: var(--lPurple);
+}
+body {
+    color: var(--offWhite);
+    font-family: Arial;
+    margin: 0
+}
+h2 {
+    font-weight: bold;
+    margin-top: 15px;
+    text-align: center;
+}
+html {
+    background-color: var(--offBlack);
+    background: url("/lavidacraft/resources/images/brick_background.png") repeat fixed center;
+    background-size: 64px;
+    font-family: Alatsi;
+    font-size: 20px;
+    image-rendering: pixelated;
+}
+.all {
+    margin: 15px;
+}
+.contentDiv {
+    background-color: var(--contentBa);
+    border-color: var(--contentBo);
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 2px;
+    line-height: 30px;
+    margin: auto;
+    margin-bottom: 15px;
+    max-width: 1000px;
+    padding: 30px;
+}
+.flexContainer {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+.navBar {
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+    max-width: 1500px;
+    padding-bottom: 5px;
+}
+.navLink {
+    border-radius: 5px;
+    color: var(--offWhite);
+    font-family: Arial;
+    font-weight: bold;
+    padding-bottom: 5px;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-top: 5px;
+    text-align: center;
+    text-decoration: none;
+    transition-duration: 0.2s;
+    width: 100%;
+}
+.navLink:hover {
+    background-color: var(--lBlue2);
+    color: var(--offWhite);
+}
+.navLink:visited {
+    color: var(--offWhite);
+}
+.notice {
+    color: var(--notice);
+    margin: auto;
+    max-width: 1000px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+.titleBar {
+    background-color: var(--lBlue);
+    box-shadow: 0 15px 15px var(--offBlack);
+    margin-bottom: 30px;
+    padding-top: 5px;
+    position: sticky;
+    top: 0;
+    width: 100%;
+}
+.titleLink {
+    color: var(--offWhite);
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+.titleLink:hover {
+    color: var(--offWhite);
+}
+.titleLink:visited {
+    color: var(--offWhite);
+}

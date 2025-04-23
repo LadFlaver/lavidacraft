@@ -1,0 +1,23 @@
+.collapseContent {
+    border-radius: 15px;
+    max-height: 0;
+    margin-bottom: 15px;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+.downloadTitle {
+    font-weight: bolder;
+    padding-bottom: 15px;
+}
+.hashDiv {
+    background-color: var(--imgBa);
+    border-color: var(--imgBo);
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 2px;
+    line-height: 30px;
+    margin-top: 15px;
+    max-width: 1000px;
+    padding: 15px;
+    word-wrap: break-word;
+}
