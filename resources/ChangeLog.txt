@@ -1,3 +1,29 @@
+LavidaCraft 1.11
+Added:
+ - Added support for the Respackopts mod. (Java)
+ - Dragon Egg textures and custom model. Only partial support exists for the new textures in the Bedrock version.
+ - Dragon Egg emissive texture. (Java)
+ - Custom models for light emitting blocks that make them appear more glowy in the inventory similar to how they appear in Bedrock. (Java)
+Updated:
+ - Honey Bottle texture to be more distinct from potions, and more in-line with Vanilla's style.
+ - Dragon Breath. No longer has transparency and has been improved slightly.
+ - Experience Bottle. Now matches Vanilla style better.
+ - Enderman texture. Overhauled appearance.
+ - Bottle texture. Improved appearance.
+ - Potion, lingering potion, and splash potion textures.
+ - Hotbar textures.
+Technical:
+ - Removed interpolation from torch and soul torch animations as it caused strange artifacts in the UI. This should not greatly effect the appearance of these items. (Java)
+ - Removed unnecessary frame order from redstone ore animations. (Bedrock)
+ - Added face culling to the bottom of torches. (Java)
+ - Added face culling to the top of potted cacti. (Java)
+Fixed:
+ - Glowstone is now actually updated. I'm not sure why it didn't work last update.
+ - Fixed a clipping issue on potions. (Java)
+Removed:
+ - Chicken textures. They will be available as a minipack on my Modrinth page.
+ - Cracked highlighted buttons. (Java)
+ 
 LavidaCraft 1.10
 Added:
  - Brewing Fuel and Potion slot textures for Brewing Stand UI. (Java)
