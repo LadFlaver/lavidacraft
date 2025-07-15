@@ -1,3 +1,18 @@
+LavidaCraft 1.13
+Added:
+ - Mers textures for entities and block for Vibrant Visuals support. Mers textures for items will be added at a later time. (Bedrock)
+ - Square Moon texture that can be enabled through Respackopts. (Java)
+ - Toggle for custom loading screen. (Java)
+Updated:
+ - Brewing Stand texture.
+ - Experience and Jump bars. The way Bedrock handles these is really stupid and makes it so I can't really port these changes. (Java)
+ - Method for preventing Seagrass clipping. Formerly used textures, now uses block models to appear the same as Vanilla Bedrock. (Java)
+ - Pack format for newer Minecraft versions. (Java)
+Removed:
+ - Unused Jump Bar Cooldown texture. (Java)
+ - Unused textures for Dried Kelp. (Bedrock)
+ - Removed Tall Seagrass textures as Bedrock doesn't have any clipping issues with it. (Bedrock)
+ 
 LavidaCraft 1.12
 Added:
  - Creeper texture. This is heavily inspired by the Lush Creepers resource pack. Check it out.
