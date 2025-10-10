@@ -1,3 +1,48 @@
+LavidaCraft 1.14 {
+
+Java and Bedrock Features:
+New Features:
+ - Added Nether Quartz texture
+ - Added Copper Nugget texture
+ - Added Copper Torch texture
+ - Added Blaze texture. Only a minor adjustment to the eyes. Why did they look human in Vanilla?
+ - Added Water Bucket texture where the water is dripping slightly. (Like Minecraft's old texture)
+Updates:
+ - Created a new format for ChangeLogs for better readability
+ - Improved most Heart, Hunger, and Armour HUD textures slightly
+ - Improved Nether Wart texture slightly
+ - Updated ReadMe
+ - Updated Gold and Iron Nugget textures
+ - Updated Creeper texture. Now easier on the eyes and removed most of the vines from it
+ - Redstone Torches are no longer animated. I wasn't fond of that look anymore
+ - Updated Slot texture colors. They now match the Vanilla colors
+ - Fishing Rod texture's string now matches the color of Bow texture's string
+ - Slight change to the Netherite Pickaxe texture.
+
+Java Exclusive Features:
+New Features:
+ - Added a Respackopts option to have nuggets only looks like coins when named Iron or Gold Coin
+ - Added a Gold Nugget texture for the named option for nuggets. It has a slightly better outline than the Vanilla texture
+ - Added Villager Experience Bar textures. This wasn't an issue that needed to be resolved for Bedrock
+ - Added an option with Respackopts to enable an alternative look for Splash Potions
+ - Added Farmland Side texture
+ - Added Copper Torch texture
+ - Added Mcmeta file to blur the End Flashes
+Updates:
+ - Updated Torch models. They should now look better especially when placed on walls
+ - Redstone Torches are now toggled by the "Torches" toggle rather than "Redstone"
+ - Updated pack.mcmeta to the new format
+Fixes:
+ - Fixed the shading on the edges of the XP and Jump Bars
+ - Fixed credits in block and item models
+Technical Changes:
+ - Moved all custom textures unique to LavidaCraft from their own namespace to subfolders. This just makes editing easier for me
+
+Bedrock Exclusive Features:
+Updated:
+ - Added full support for the XP bar. Finally found a way to do it
+}
+
 LavidaCraft 1.13
 Added:
  - Mers textures for entities and block for Vibrant Visuals support. Mers textures for items will be added at a later time. (Bedrock)
