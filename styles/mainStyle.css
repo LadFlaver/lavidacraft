@@ -23,7 +23,7 @@ html {
     background-color: var(--offBlack);
     background: url("/lavidacraft/resources/images/brick_background.png") repeat fixed center;
     background-size: 64px;
-    font-family: Alatsi;
+    font-family: Arial;
     font-size: 20px;
     image-rendering: pixelated;
 }
@@ -95,6 +95,7 @@ html {
 }
 .titleLink {
     color: var(--offWhite);
+    font-family: Tahoma, sans-serif;
     text-align: center;
     text-decoration: none;
     margin-bottom: 10px;
