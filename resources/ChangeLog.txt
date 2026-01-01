@@ -1,3 +1,34 @@
+LavidaCraft 1.15 {
+
+Java and Bedrock Changes:
+New Features:
+ - New Cookie texture. The Vanilla one looks so dry and unappetizing
+ - New Netherite Spear texture
+ - New Netherite Smithing Template texture. I didn't think the up arrow made sense
+ - New Coal texture and alternate option for Java
+ - New textures for Pumpkin, Wheat, and Melon Seeds
+Updates:
+ - Updated Netherite Tools. More refined diamond highlights
+ - Updated the Creeper texture. Added some flowers for slightly better visibility
+
+Java Exclusive Changes:
+New Features:
+ - Added textures and item models for shield sprites while in GUI
+Updates:
+ - Updated emissive textures for Netherite Tools
+ - Updated pack.mcmeta to declare support for 1.21.9-11
+ - Reformatted celestial textures
+Fixes:
+ - Fixed a UV mapping issue on Farmland
+ - Updated the torch model slightly
+Technical Changes:
+ - Moved torch metal textures from items to blocks and updated item models accordingly
+
+Bedrock Exclusive Changes:
+Fixes:
+ - Fixed the Sun and Moon for Bedrock
+}
+
 LavidaCraft 1.14 {
 
 Java and Bedrock Features:
