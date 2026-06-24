@@ -1,3 +1,30 @@
+LavidaCraft 1.16 {
+
+New Features:
+ - New Respackopts option to change the Hunger Bar to Bok Choy. This is disabled by default. This feature also supports the Appleskin mod
+ - Added support for the Item Swapper mod
+ - Added an Iron Nugget texture for the "Named" nugget ResPackOpts option. No more Airpod looking thing
+ - Added a new Bone Meal texture. It now looks like a powder and shares a color palette with bones
+Updates:
+ - Updated Netherwart texture
+ - Updated Bedrock and End Crystal textures. Added a ResPackOpts option for the old versions
+ - Updated the Hotbar and corresponding textures
+ - Made the higher resolution destroy animation off by default. Enabling it is only available through ResPackOpts
+ - Updated Enchanted Books, Writable Books, and Written Books to have unique colors
+ - Updated Wheat Seeds texture
+ - Updated Pumpkin Seeds texture color palette
+ - Updated Melon Seeds Texture color palette
+ - Updated the Glass Bottle, Potion, Dragon's Breath, Honey Bottle, Lingering Potion, Splash Potion, and Experience Bottle textures (and related UI textures)
+ - Updated the pack icon
+Fixes:
+ - Fixed a UV mapping issue on the Dragon Egg model
+Removed Features:
+ - Removed the Leather Armor Changes
+ - Removed the Molotov option for splash potions as the new default is considered a replacement
+Technical Changes:
+ - Changed how Farmland models work behind the scenes to help with mod compatibility
+}
+
 LavidaCraft 1.15 {
 
 Java and Bedrock Changes:

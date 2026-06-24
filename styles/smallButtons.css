@@ -60,6 +60,10 @@
     transition-duration: 0.2s;
     white-space: nowrap;
 }
+.greenButtonDisabled:hover {
+    color: var(--bGreen);
+    cursor: not-allowed;
+}
 .yellowButton {
     background-color: var(--bYellowBa);
     border-color: var(--bYellowBo);
