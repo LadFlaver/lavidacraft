@@ -1,3 +1,24 @@
+LavidaCraft 1.17 {
+New Features:
+ - Added support for the new maps
+ - Item sprite for Shelf Mushrooms
+Updates:
+ - Updated the Bone Meal texture
+ - Updated the Wheat Seeds texture
+ - Updated the Pumpkin Seeds texture
+ - Completely overhauled Respackopts config. Many mistakes might have been made. Please inform me if there's any issues
+ - Nuggets now default to the Named Only option both in Vanilla and with Respackopts
+ - Updated the Nether Quartz texture slightly
+ - Updated existing map textures. Filled maps will no longer show markings for Minecraft versions older than 26.3
+ - Updated the Coal and Coal without amber texture
+ - Reduced emissiveness of the Netherite Tool textures by 50%
+Fixes:
+ - Removed many unused files and well as ones that were already meant to be removed
+ - Added Blaze textures to the correct directory
+Technical Changes:
+ - Removed the assets/lavidacraft/lang directory in favor of having the language file under the assets/minecraft/lang directory
+}
+
 LavidaCraft 1.16 {
 
 New Features:

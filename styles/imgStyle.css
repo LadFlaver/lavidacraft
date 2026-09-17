@@ -21,3 +21,6 @@ img {
     padding: 5px;
     text-align: center;
 }
+.imgSmooth {
+    image-rendering: auto;
+}
