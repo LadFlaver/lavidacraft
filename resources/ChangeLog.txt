@@ -1,3 +1,23 @@
+LavidaCraft 1.18 {
+New Features:
+ - Added custom bed models (no added textures for them to function)
+ - Added pickaxe textures
+ - Added custom banner and banner shield textures
+ - Added support for Theone's Eating Animation Pack
+Updates:
+ - Updated the bedrock texture
+ - Updated the end crystal texture
+ - Updated the cookie texture
+ - Updated the minimum pack version as custom bed models aren't supported on versions older than 26.2
+ - Stopped capitalizing things in the change log unecessarily (these aren't proper nouns)
+Fixes:
+ - Fixed an issue with shields displaying incorrectly. This also updated the cases in which Shield Icons show
+ - Fixed the fishing hook not showing up
+ - Fixed the redstone torch model being incorrect on older (technically unsupported) Minecraft versions. It will now use the default torch model on those versions
+Technical Changes:
+ - Moved the en_us.json to the respackopts directory
+}
+
 LavidaCraft 1.17 {
 New Features:
  - Added support for the new maps
